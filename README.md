@@ -78,7 +78,7 @@ kaggle. The data contains following features:
 3. [XGBoost](https://xgboost.readthedocs.io/en/latest/) - To create XGBoost based model for calorie prediction
 6. [SQLite](https://www.sqlite.org/index.html) - Database to store the validated Raw data and data submitted for 
    prediction. 
-4. [Python 3.6](https://ngrok.com/) - As a programming language
+4. [Python 3.6](https://www.python.org/) - As a programming language
 
 
 <h2> Prerequisites </h2>
